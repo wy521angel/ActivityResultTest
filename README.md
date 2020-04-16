@@ -1,0 +1,4 @@
+# ActivityResultTest
+使用谷歌最新的ActivityResult方法做Activity跳转获取值
+
+包括：跳转到下一页获取数据返回、请求权限、拍照、自定义返回值、使用Lifecycle脱离Activity解耦、配合LiveData的使用。
